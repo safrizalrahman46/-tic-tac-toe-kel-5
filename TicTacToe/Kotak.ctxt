@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Kotak
+comment1.params=delta
+comment1.target=Kotak(int)
+comment2.params=id\ delta
+comment2.target=Kotak(int,\ int)
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ act()
+numComments=5
