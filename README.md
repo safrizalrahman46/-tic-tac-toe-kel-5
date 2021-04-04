@@ -1,5 +1,5 @@
 # -Game_TictacToe_Greenfoot
-## nama kelompok
+## Nama kelompok
   * Safrizal Rahman : 30 
   * Fahmi aditya : 12 
   * Auiia Rahman Yuniarti : 07
