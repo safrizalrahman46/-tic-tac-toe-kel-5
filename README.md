@@ -1,4 +1,8 @@
-# -Game_TictacToe_Greenfoot
+# Tugas Game_TictacToe_Greenfoot - SMKN 1 BANGIL
+
+## Guru pembimbing 
+  Moh. Shobirin, S.Kom
+
 ## Nama kelompok
   * Safrizal Rahman : 30 
   * Fahmi aditya : 12 
