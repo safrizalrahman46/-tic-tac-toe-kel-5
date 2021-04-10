@@ -6,7 +6,7 @@
 ## Nama kelompok
   * Safrizal Rahman : 30 
   * Fahmi aditya : 12 
-  * Auiia Rahman Yuniarti : 07
+  * Aulia Rahma Yuniarti : 07
   * Tsamara ikmalia : 34
 
         
