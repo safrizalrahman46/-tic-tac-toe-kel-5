@@ -17,6 +17,7 @@
 ## Video Dokumentasi
     1. Video Tutorial (https://youtu.be/oFMJ20aXaxw) 
     2. Video revisi penambahan button keluar aplikasi atau button exit (https://youtu.be/625k32u2SiE)
+    3. Video revisi penambahan button keluar aplikasi atau button exit menggunakan ICON EXIT HIJAU tahap 2 (https://www.youtube.com/watch?v=lZi5VL6Gl7Q)
 
 ## Tools 
 * Greenfoot
